@@ -1,2 +1,2 @@
-# Setting_Up_Linus
-Setting_Up_Linus
+# Setting_Up_Linux
+Setting_Up_Linux
